@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/Y4wMPJCr/demo-app-1.webp",
+    "title": "Task Manager Pro",
+    "companyName": "TechSoft Ltd",
+    "description": "Organize tasks and boost productivity.",
+    "size": 45,
+    "reviews": 1240,
+    "ratingAvg": 4.6,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 535 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/mrnBF4RF/images-3.png",
+    "title": "Fitness Tracker",
+    "companyName": "Healthify",
+    "description": "Track workouts and stay healthy.",
+    "size": 60,
+    "reviews": 980,
+    "ratingAvg": 4.4,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/RG3j91ML/demo-app-2.webp",
+    "title": "Photo Editor Plus",
+    "companyName": "PixelWorks",
+    "description": "Edit photos with advanced tools.",
+    "size": 85,
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 1160 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/gbNVYxHh/demo-app-3.webp",
+    "title": "Music Stream",
+    "companyName": "SoundWave",
+    "description": "Stream millions of songs online.",
+    "size": 70,
+    "reviews": 3100,
+    "ratingAvg": 4.8,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1770 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/MDmQGpLy/demo-app-5.webp",
+    "title": "Online Shopping",
+    "companyName": "ShopEase",
+    "description": "Shop products at the best prices.",
+    "size": 95,
+    "reviews": 5400,
+    "ratingAvg": 4.5,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2200 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/Jjvd53Tm/demo-app-6.webp",
+    "title": "Food Delivery",
+    "companyName": "QuickBite",
+    "description": "Order food from nearby restaurants.",
+    "size": 55,
+    "reviews": 4300,
+    "ratingAvg": 4.3,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 1580 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/Dg9F15zY/original-23909ae05b7ad399e60a61467cca821f.webp",
+    "title": "Language Learning",
+    "companyName": "LinguaGo",
+    "description": "Learn new languages easily.",
+    "size": 40,
+    "reviews": 1600,
+    "ratingAvg": 4.6,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 510 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/1tg5Z1h5/7ec111864f7539dce5362ccf235b61a4.png",
+    "title": "Weather Now",
+    "companyName": "SkyNet",
+    "description": "Accurate real-time weather updates.",
+    "size": 25,
+    "reviews": 890,
+    "ratingAvg": 4.2,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/5gJGYM9s/images.png",
+    "title": "Finance Tracker",
+    "companyName": "MoneyWise",
+    "description": "Track expenses and manage budget.",
+    "size": 35,
+    "reviews": 1450,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/CKRb9BcN/images-5.png",
+    "title": "Video Editor",
+    "companyName": "ClipMaster",
+    "description": "Create and edit professional videos.",
+    "size": 120,
+    "reviews": 2700,
+    "ratingAvg": 4.7,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 780 },
+      { "name": "5 star", "count": 1510 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/mrnBF4RF/images-3.png",
+    "title": "Notes Keeper",
+    "companyName": "NoteLab",
+    "description": "Save notes securely in the cloud.",
+    "size": 20,
+    "reviews": 670,
+    "ratingAvg": 4.4,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 210 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/k2kKDc9V/images-1.png",
+    "title": "Travel Planner",
+    "companyName": "TripMate",
+    "description": "Plan trips and explore destinations.",
+    "size": 65,
+    "reviews": 1950,
+    "ratingAvg": 4.6,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 75 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 560 },
+      { "name": "5 star", "count": 1030 }
+    ]
+  }
+]
