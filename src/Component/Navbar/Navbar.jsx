@@ -101,6 +101,7 @@ const Navbar = () => {
           <div className="navbar-end">
             <a
               href="https://github.com/faysil-amin"
+              target="_blank"
               className="bg-linear-to-bl from-[#9F62F2] to-[#632EE3] px-3 py-1.5 md:px-6 md:py-3 text-white font-light md:font-bold rounded-sm"
             >
               <div className="flex items-center gap-2">

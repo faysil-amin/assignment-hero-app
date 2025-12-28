@@ -29,7 +29,14 @@ const Home1 = () => {
               <div className="text-xl">
                 <FaGooglePlay />
               </div>
-              <p>Google Play</p>
+              <p>
+                <a
+                  href="https://play.google.com/store/games?hl=en"
+                  target="_blank"
+                >
+                  Google Play
+                </a>
+              </p>
             </a>
           </button>
           <button className="md:py-3 md:px-4 py-1.5 px-2 btn">
@@ -37,7 +44,11 @@ const Home1 = () => {
               <div className="text-xl">
                 <FaAppStoreIos />
               </div>
-              <p>App Store</p>
+              <p>
+                <a href="https://www.apple.com/app-store/" target="_blank">
+                  App Store
+                </a>
+              </p>
             </a>
           </button>
         </div>
