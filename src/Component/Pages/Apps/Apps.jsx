@@ -4,6 +4,7 @@ import AppsCard from "./AppsCard";
 
 const Apps = () => {
   const appsApi = useLoaderData();
+
   const [serch, setSearch] = useState("");
   const handleInput = (e) => {
     setSearch(e.target.value);
@@ -56,7 +57,7 @@ const Apps = () => {
         </div>
       </div>
       {serch === "" ? (
-        <div className="grid md:grid-cols-4 gap-4 my-4">
+        <div className="grid md:grid-cols-4 px-6 md:px-0 gap-4 my-4">
           {appsApi.map((res) => (
             <AppsCard key={res.id} res={res}></AppsCard>
           ))}

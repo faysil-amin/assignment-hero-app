@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div className="bg-black h-[200px]">
       <Container>
-        <div className="px-6 flex items-center justify-between pt-10 pb-4 border-b-1 border-[#FAFAFA]">
+        <div className="px-6  flex items-center justify-between pt-10 pb-4 border-b-1 border-[#FAFAFA]">
           <div className="flex items-center">
             <img className="w-[40px] h-[40px]" src={logo} alt="" />
             <a className="text-xl font-bold text-white">HERO.IO</a>

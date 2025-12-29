@@ -53,7 +53,7 @@ const Home1 = () => {
           </button>
         </div>
         <div className="flex items-center justify-center px-6 mt-8">
-          <img className="w-[442px]" src={phoneImg} alt="" />
+          <img className="w-[542px]" src={phoneImg} alt="" />
         </div>
       </Container>
       <div className="py-8 bg-linear-to-br from-[#632EE3] to-[#9F62F2] flex items-center justify-center">

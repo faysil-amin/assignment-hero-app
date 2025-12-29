@@ -1,13 +1,18 @@
 import React from "react";
 import { FaDownload } from "react-icons/fa6";
 import { FaStar } from "react-icons/fa";
+import { Link } from "react-router";
+import { storeData } from "../../../Stores";
 const AppsCard = ({ res }) => {
-  const { image, title, companyName, ratingAvg, downloads } = res || {};
+  const { image, title, companyName, ratingAvg, downloads, id } = res || {};
   return (
-    <div>
-      <div className="card bg-base-100 shadow-xl mt-4 h-[435px]">
+    <Link to={`/apps/${id}`}>
+      <div
+        className="card bg-base-100 shadow-xl mt-4 h-[435px]"
+        onClick={() => storeData(id)}
+      >
         <figure>
-          <img className="w-[316px] h-[316px]  p-2" src={image} alt="Shoes" />
+          <img className="w-[316px] h-[316px] p-2" src={image} alt="Shoes" />
         </figure>
         <div className="card-body">
           <p className="font-medium text-base">
@@ -30,7 +35,7 @@ const AppsCard = ({ res }) => {
           </div>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 

@@ -21,11 +21,11 @@ const Navbar = () => {
       </Link>
       <Link to={"/apps"} onClick={() => setColor("apps")}>
         <li
-          className={`font-semibold ${
+          className={` font-semibold ${
             color === "apps"
               ? "bg-linear-to-bl from-[#9F62F2] to-[#632EE3] bg-clip-text text-transparent underline decoration-[#9F62F2]"
               : ""
-          } mx-6`}
+          } md:px-6`}
         >
           Apps
         </li>
